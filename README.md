@@ -68,9 +68,12 @@ When the user clicks the increment button, the quantity increases by one and the
 ```text
 Desafio_01_Java/
 │
+├── assets
+    ├── java
+        └── index.js
+    └── css
+        └── style.css
 ├── index.html
-├── estilos.css
-├── index.js
 └── README.md
 ```
 

@@ -2,7 +2,7 @@
 
 ## Page Link
 
-🔗 **Live Demo: https://rodgarhel.github.io/Desafio_01_Java/
+🔗 Live Demo: https://rodgarhel.github.io/Desafio_01_Java/
 
 ---
 
